@@ -1,0 +1,86 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travel_mainDiv
+{
+    border: 1px solid grey;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5
+{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.travel_mainDiv p
+{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+#myPic
+{
+    width: 250px;
+    height:250px;
+    border-bottom-style: dotted;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 1000px;
+}
+#marqueeStyle
+{
+    height: 25px;
+    background-color: deepskyblue;
+}
+.list-item li
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    
+}
+.list-item h4
+{
+    padding-top: 10px;
+    border-bottom: 1px dashed white;
+}
+.list-item img
+{
+    border-radius: 25px;
+}
+.list-item p
+{
+    padding-top: 10px;
+}
